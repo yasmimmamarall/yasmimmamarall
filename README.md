@@ -2,7 +2,7 @@
 
 meu nome é Yasmim Amaral
 
-- estou estudando na [Alura](https://www.alura.com.br)
+- estou estudando na Alura
 - estou me desenvolvendona linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
