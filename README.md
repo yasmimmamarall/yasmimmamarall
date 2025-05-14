@@ -10,5 +10,5 @@ meu nome é Yasmim Amaral
 
 yasmimsamaral@icloud.com
 
-![](https://media1.tenor.com/m/RjVMElMpsJEAAAAd/vinnie-hecker.gif)
+
 
